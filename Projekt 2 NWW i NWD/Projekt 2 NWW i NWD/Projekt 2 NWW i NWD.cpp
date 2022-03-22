@@ -52,4 +52,5 @@ int main()
         }
     }
     cout << "Miłego Dnia :)" << endl;
+    Sleep(2000);
 }
